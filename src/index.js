@@ -9,6 +9,15 @@ const colors = [
   "#3c40c6",
   "#0fbcf9",
   "#00d8d6",
+  "#05c46b",
+  "#ffc048",
+  "#ffdd59",
+  "#ff5e57",
+  "#d2dae2",
+  "#485460",
+  "#ffa801",
+  "#ffd32a",
+  "#ff3f34"
 ];
 
 function btnclickHandler() {
